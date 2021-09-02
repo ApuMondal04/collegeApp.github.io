@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379481699112",
+    "project_id": "imed-pune",
+    "storage_bucket": "imed-pune.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379481699112:android:ebfa257f7a104b256cd61d",
+        "android_client_info": {
+          "package_name": "com.example.imedadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379481699112-63hnailfs4l5r8bo96p4r88g789ijupt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE4eUvn4dKZcUh88z1vK6JY2CYJOCW0rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379481699112-63hnailfs4l5r8bo96p4r88g789ijupt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

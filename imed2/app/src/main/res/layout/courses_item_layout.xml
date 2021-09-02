@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/text_margin"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/cr_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="12dp"
+                android:src="@drawable/ic_computer"/>
+
+
+            <TextView
+                android:id="@+id/cr_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="12dp"
+                android:fontFamily="@font/acme"
+                android:text="Courses"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/title_size" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/cr_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginHorizontal="@dimen/text_margin"
+            android:layout_marginTop="@dimen/text_margin"
+            android:background="#FAD4D4"
+            android:text="Institute of Management and Entrepreneurship Development (IMED), Pune established by Bharati Vidyapeeth in 1978, is a well known Business School in Western part of India. The Government of India under section 3 of UGC Act brought this Institute under the ambit of Bharati Vidyapeeth (Deemed to be University), Pune (India) w.e.f. 20th July 2000. IMED has been consistently ranked among top Indian Business Schools in India."
+            android:textColor="#C9504A4A"
+            android:textSize="@dimen/text_size" />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

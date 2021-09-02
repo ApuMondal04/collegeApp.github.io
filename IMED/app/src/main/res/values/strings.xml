@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">IMED</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/sansbold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/sansregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/sanslight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

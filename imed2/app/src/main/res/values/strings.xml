@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">imed</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+
+
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_college">Institute of Management and Entrepreneurship Development (IMED), Pune established by Bharati Vidyapeeth in 1978, is a well known Business School in Western part of India. The Government of India under section 3 of UGC Act brought this Institute under the ambit of Bharati Vidyapeeth (Deemed to be University), Pune (India) w.e.f. 20th July 2000. IMED has been consistently ranked among top Indian Business Schools in India. IMED is laid out on sprawling four acres of land with state-of-the-art infrastructural &amp; instructional facilities. As a constituent of Bharati Vidyapeeth (Deemed to be University), Pune, IMED contributes in its own ways to the philosophy, vision and mission of Bharati Vidyapeeth i.e. “Be a World-Class University and a Global Resource in Innovative University Education for Ever-better World” and “Social Transformation Through Dynamic Education” respectively.</string>
+
+</resources>
